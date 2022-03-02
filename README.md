@@ -72,11 +72,8 @@ The organizers and presenters of this course have multi-disciplinary backgrounds
 
 ## Slack
 
-For members of the mgibio Slack organization, please use the [#bfx_workshop](https://mgibio.slack.com/archives/CDE4LQHHD) channel. If you do not have access to the mgibio Slack organization please email one of the following organizers:
+For members of the mgibio Slack organization, please use the following channel. If you do not have access to the mgibio Slack organization please email one of the following organizers:
 
-jason.walker at wustl.edu
-
-c.a.miller at wustl.edu
 
 ## Email
 
