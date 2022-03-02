@@ -12,9 +12,9 @@ This workshop series is designed for people who want to:
 # Schedule
 
 The course is organized in three weeks:
-* Module 1 (March 14th, March 16th, March 18th)
-* Module 2 (March 21th, March 23th, March 25th)
-* Module 3 (March 28th, March 30th, April 1st)
+* Module 1 (March 14th - March 16th - March 18th)
+* Module 2 (March 21th - March 23th - March 25th)
+* Module 3 (March 28th - March 30th - April 1st)
 
 For each week, there will be:
 * 9 hours divided in three sessions
