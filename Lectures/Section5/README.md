@@ -13,8 +13,11 @@ Introduction to Genomics and NGS
 
 # Objectives
 1.- Provide to the student the background of genome complexity.
+
 2.- Understand the NGS basis benefits and limitations.
+
 3.- Introduce the student to remote server and computation analysis using the shell.
+
 4.- Provide the tools and ability to understand how good the sequencing run was.
 
 # Critical Concepts
