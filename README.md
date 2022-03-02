@@ -24,17 +24,18 @@ During the last week, there will be 3 additional hours about seminars from Inter
 
 We will start by holding all the seminars remotely via Zoom. Please see the [Communications](https://github.com/genome/bfx-workshop/blob/master/README.md#communications) section below for accessing the Email alias to receive a Outlook Calendar invite that includes the Zoom meeting link. It's important to use the Outlook Calendar invite to be automatically notified of cancellations or changes to scheduling.
 
+
 |Date|Topics|Instructor|
 |----|--------|------------|
-| March 14 | [Commandline and Linux Introduction](https://github.com/genome/bfx-workshop/tree/master/lectures/week_01) | Dante Travisany| 
-| March 16 | [Introduction to High Performance Computing (HPC)](https://github.com/genome/bfx-workshop/tree/master/lectures/week_02) | Eugenio Guerra|
-| March 18 | [Introduction to Python](https://wustl.box.com/s/003l9e3q1oh8631fdzct90aafcuxot1b) |Dante Travisany| 
-| March 21 | [Introduction to R and RStudio](https://github.com/genome/bfx-workshop/tree/master/lectures/week_04) | Manuel Ramirez |
-| March 23 | [Introctuion to Genomics and NGS](https://github.com/genome/bfx-workshop/tree/master/lectures/week_04) | Dante Travisany|
-| March 25 | [Metagenomics & Microbial Survey](https://github.com/genome/bfx-workshop/tree/master/lectures/week_05) | Dante Travisany |
-| March 28 | [Phylogenomics](https://github.com/genome/bfx-workshop/tree/master/lectures/week_06) | -- |
-| March 30 | [Population Genomics](https://github.com/genome/bfx-workshop/tree/master/lectures/week_07) | -- |
-| April 01 | [Adaptative Evolution](https://github.com/genome/bfx-workshop/tree/master/lectures/week_08) | -- |
+| March 14 | [Commandline and Linux Introduction](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section1) | Dante Travisany| 
+| March 16 | [Introduction to High Performance Computing (HPC)](https://github.com/genome/bfx-workshop/tree/master/lectures/Section2) | Eugenio Guerra|
+| March 18 | [Introduction to Python](https://github.com/genome/bfx-workshop/tree/master/lectures/Section3) |Dante Travisany| 
+| March 21 | [Introduction to R and RStudio](https://github.com/genome/bfx-workshop/tree/master/lectures/Section4) | Manuel Ramirez |
+| March 23 | [Introctuion to Genomics and NGS](https://github.com/genome/bfx-workshop/tree/master/lectures/Section5) | Dante Travisany|
+| March 25 | [Metagenomics & Microbial Survey](https://github.com/genome/bfx-workshop/tree/master/lectures/Section6) | Dante Travisany |
+| March 28 | [Phylogenomics](https://github.com/genome/bfx-workshop/tree/master/lectures/Section7) | -- |
+| March 30 | [Population Genomics](https://github.com/genome/bfx-workshop/tree/master/lectures/Section8) | -- |
+| April 01 | [Adaptative Evolution](https://github.com/genome/bfx-workshop/tree/master/lectures/Section9) | -- |
 
 
 # Requirements for Inscription
