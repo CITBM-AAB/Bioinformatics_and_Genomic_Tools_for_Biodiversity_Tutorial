@@ -28,7 +28,7 @@ During the last week, there will be 3 additional hours about seminars from Inter
 | March 16 | [Introduction to High Performance Computing (HPC)](https://github.com/genome/bfx-workshop/tree/master/lectures/Section2) | Eugenio Guerra|
 | March 18 | [Introduction to Python](https://github.com/genome/bfx-workshop/tree/master/lectures/Section3) |Dante Travisany| 
 | March 21 | [Introduction to R and RStudio](https://github.com/genome/bfx-workshop/tree/master/lectures/Section4) | Manuel Ramirez |
-| March 23 | [Introctuion to Genomics and NGS](https://github.com/genome/bfx-workshop/tree/master/lectures/Section5) | Dante Travisany|
+| March 23 | [Introduction to Genomics and NGS](https://github.com/genome/bfx-workshop/tree/master/lectures/Section5) | Dante Travisany|
 | March 25 | [Metagenomics & Microbial Survey](https://github.com/genome/bfx-workshop/tree/master/lectures/Section6) | Dante Travisany |
 | March 28 | [Phylogenomics](https://github.com/genome/bfx-workshop/tree/master/lectures/Section7) | -- |
 | March 30 | [Population Genomics](https://github.com/genome/bfx-workshop/tree/master/lectures/Section8) | -- |
@@ -37,7 +37,7 @@ During the last week, there will be 3 additional hours about seminars from Inter
 
 # Requirements for Inscription
 
-* There will be up to 40 admitted people
+* There will be up to 49 admitted people
 * Applicants must have LatinAmericans 
 * Applicants can be professors/researchers, postdocs witha PhD obtained until 2015 and graduate students
 * Applicants will be selected based on merit acording to a **motivation letter** in English and their **CV**.
@@ -68,4 +68,7 @@ The organizers and presenters of this course have multi-disciplinary backgrounds
 # Communications
 
 ## Email
+You should get a gmail account to be able to access the Google Classroom App , announcements, and information regarding this workshop will appear in the "Tablon" Tab of Classroom. 
+
+Questions are welcome. 
 cursobioinfo@enorbita.org
