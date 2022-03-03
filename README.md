@@ -22,9 +22,6 @@ For each week, there will be:
 
 During the last week, there will be 3 additional hours about seminars from International Speakers.
 
-We will start by holding all the seminars remotely via Zoom. Please see the [Communications](https://github.com/genome/bfx-workshop/blob/master/README.md#communications) section below for accessing the Email alias to receive a Outlook Calendar invite that includes the Zoom meeting link. It's important to use the Outlook Calendar invite to be automatically notified of cancellations or changes to scheduling.
-
-
 |Date|Topics|Instructor|
 |----|--------|------------|
 | March 14 | [Commandline and Linux Introduction](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section1) | Dante Travisany| 
@@ -70,15 +67,5 @@ The organizers and presenters of this course have multi-disciplinary backgrounds
 
 # Communications
 
-## Slack
-
-For members of the mgibio Slack organization, please use the following channel. If you do not have access to the mgibio Slack organization please email one of the following organizers:
-
-
 ## Email
-
-An Office 365 Group named Bioinformatics is used to distribute Calendar invites, announcements, and information regarding this workshop. Questions are welcome as well, but please be mindful that over 100 people subscribe to this alias. [Click here](https://outlook.office365.com/owa/bioinformatics@gowustl.onmicrosoft.com/groupsubscription.ashx?action=join&source=MSExchange/LokiServer&guid=2fdc302a-812b-4984-a57b-62ee21430272) to join.
-
-The email address is: 
-
-cursobioinfo at enorbita.org
+cursobioinfo@enorbita.org
