@@ -5,7 +5,7 @@ Adaptative evolution
 * [Lecture Recording](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section9)
 
 # Instructor
-* --
+* Jorge Ramirez, Eduardo Eizirik, Henrique Figeuiró, Fernanda Trindade
 
 # Description
 The adaptive evolution session will explore how a researcher can extract coding region (CDS) information from WGS, build and validate alignments and look for signatures of positive selection. We will show how to explore a small data set where one can perform all the required steps for a positive selection analysis, including writing a small report of the findings. 
