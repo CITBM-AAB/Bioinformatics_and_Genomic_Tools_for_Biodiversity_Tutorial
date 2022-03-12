@@ -30,9 +30,9 @@ During the last week, there will be 3 additional hours about seminars from Inter
 | March 21 | [Introduction to R and RStudio](https://github.com/genome/bfx-workshop/tree/master/lectures/Section4) | Manuel Ramirez |
 | March 23 | [Introduction to Genomics and NGS](https://github.com/genome/bfx-workshop/tree/master/lectures/Section5) | Dante Travisany|
 | March 25 | [Metagenomics & Microbial Survey](https://github.com/genome/bfx-workshop/tree/master/lectures/Section6) | Dante Travisany |
-| March 28 | [Phylogenomics](https://github.com/genome/bfx-workshop/tree/master/lectures/Section7) | -- |
-| March 30 | [Population Genomics](https://github.com/genome/bfx-workshop/tree/master/lectures/Section8) | -- |
-| April 01 | [Adaptative Evolution](https://github.com/genome/bfx-workshop/tree/master/lectures/Section9) | -- |
+| March 28 | [Phylogenomics](https://github.com/genome/bfx-workshop/tree/master/lectures/Section7) | Eduardo Eizirik, Henrique Figueiró, Fernanda Trindade |
+| March 30 | [Population Genomics](https://github.com/genome/bfx-workshop/tree/master/lectures/Section8) | Eduardo Eizirik, Henrique Figueiró, Fernanda Trindade |
+| April 01 | [Adaptative Evolution](https://github.com/genome/bfx-workshop/tree/master/lectures/Section9) | Jorge Ramirez, Eduardo Eizirik, Henrique Figueiró, Fernanda Trindade |
 
 
 # Requirements for Inscription
