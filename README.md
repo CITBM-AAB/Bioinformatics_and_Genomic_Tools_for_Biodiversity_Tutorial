@@ -25,14 +25,14 @@ During the last week, there will be 3 additional hours about seminars from Inter
 |Date|Topics|Instructor|
 |----|--------|------------|
 | March 14 | [Commandline and Linux Introduction](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/Lectures/Section1) | Dante Travisany| 
-| March 16 | [Introduction to High Performance Computing (HPC)](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/lectures/Section2) | Eugenio Guerra|
-| March 18 | [Introduction to Python](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/lectures/Section3) |Dante Travisany| 
-| March 21 | [Introduction to R and RStudio](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/lectures/Section4) | Manuel Ramirez |
-| March 23 | [Introduction to Genomics and NGS](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/lectures/Section5) | Dante Travisany|
-| March 25 | [Metagenomics & Microbial Survey](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/lectures/Section6) | Dante Travisany |
-| March 28 | [Phylogenomics](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/lectures/Section7) | Eduardo Eizirik, Henrique Figueiró, Fernanda Trindade |
-| March 30 | [Population Genomics](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/lectures/Section8) | Eduardo Eizirik, Henrique Figueiró, Fernanda Trindade |
-| April 01 | [Adaptative Evolution](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/lectures/Section9) | Jorge Ramirez, Eduardo Eizirik, Henrique Figueiró, Fernanda Trindade |
+| March 16 | [Introduction to High Performance Computing (HPC)](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/Lectures/Section2) | Eugenio Guerra|
+| March 18 | [Introduction to Python](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/Lectures/Section3) |Dante Travisany| 
+| March 21 | [Introduction to R and RStudio](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/Lectures/Section4) | Manuel Ramirez |
+| March 23 | [Introduction to Genomics and NGS](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/Lectures/Section5) | Dante Travisany|
+| March 25 | [Metagenomics & Microbial Survey](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/Lectures/Section6) | Dante Travisany |
+| March 28 | [Phylogenomics](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/Lectures/Section7) | Eduardo Eizirik, Henrique Figueiró, Fernanda Trindade |
+| March 30 | [Population Genomics](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/Lectures/Section8) | Eduardo Eizirik, Henrique Figueiró, Fernanda Trindade |
+| April 01 | [Adaptative Evolution](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/tree/main/Lectures/Section9) | Jorge Ramirez, Eduardo Eizirik, Henrique Figueiró, Fernanda Trindade |
 
 # Requirements for Inscription
 
