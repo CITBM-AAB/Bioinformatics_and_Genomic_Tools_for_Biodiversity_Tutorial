@@ -12,8 +12,11 @@ Introduction to the use of a supercomputer using a resource manager. Among the t
 
 # Objectives
 1.- Introduce a cluster as a great computational tool for research
+
 2.- Understand the use of a cluster and its queue manager
+
 3.- Teach different tools for monitoring scientific simulations launched in a cluster
+
 4.- Provide concepts and tools necessary for the use of a high-performance cluster in our scientific simulations
 
 # Critical Concepts
