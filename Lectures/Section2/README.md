@@ -8,12 +8,13 @@ Introduction to High Performance Computing (HPC)
 * Eugenio Guerra
 
 # Description
-Unix/Linux is the standard operating system for scientific computing. Something similar happens with Windows, but on desktop computers (PC).
-Following this comparison, the similarities between both Operating Systems are:
-- They handle the hardware for you (networks, hard disks, processor).
-- They provide an interface to run applications and store your files.
-- Both have desktop interfaces that offer almost the same features.
-On the other hand, Unix is secure, stable and allows the execution of tasks with multiple users. This has made it the operating system of choice for High Performance Computing (HPC). It can be used on different types of hardware from RaspberryPi, cell phones and tablets (Android), notebook and PC to supercomputers such as Leftraru of NLHPC.
+Introduction to the use of a supercomputer using a resource manager. Among the topics to review we find the use of a queue manager, sending tasks to the cluster, preparation of necessary scripts, task monitoring, use of basic commands in a cluster, good use of computational resources, system of available software modules in the cluster and finally application scaling.
+
+# Objectives
+1.- Introduce a cluster as a great computational tool for research
+2.- Understand the use of a cluster and its queue manager
+3.- Teach different tools for monitoring scientific simulations launched in a cluster
+4.- Provide concepts and tools necessary for the use of a high-performance cluster in our scientific simulations
 
 # Critical Concepts
-Basic Command line, Terminal
+HPC, SLURM, Linux, Scaling, SpeedUp, Efficiency
