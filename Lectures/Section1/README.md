@@ -1,7 +1,7 @@
 CommandLine and Linux Introduction 
 ======
 * [Slides](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section1)
-* [Jupyter Notebook](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section1)
+* [Jupyter Notebook](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section1/Class.md)
 * [Lecture Recording](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section1)
 
 # Instructor
