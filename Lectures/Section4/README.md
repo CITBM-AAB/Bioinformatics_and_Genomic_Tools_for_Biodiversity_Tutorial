@@ -1,7 +1,12 @@
 Introduction to R and RStudio
 ======
 * [Slides](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section4)
-* [Jupyter Notebook](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section4)
+* [Instalacion de R](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section4/Instalacion%20de%20R.md)
+* [Instalacion de RStudio](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section4/Instalacion%20de%20Rstudio.md)
+* [Gestion de Paquetes](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section4/Gestion%20de%20Paquetes.md)
+* [Importacion y exportacion de archivos](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section4/Importacion%20y%20Exportacion%20de%20archivos.md)
+* [Tipos de datos, operadores y estructuras en R](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section4/Tipos%20de%20datos%2C%20operadores%20y%20estructuras%20en%20R.md)
+* 
 * [Lecture Recording](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section4)
 
 # Instructor
