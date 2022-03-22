@@ -6,7 +6,7 @@ Introduction to Python
 * [Lecture Recording](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section3)
 
 # Instructor
-* Eugenio Guerra
+* Dante Travisany
 
 # Description
 In this section, the student will learn the basics of object-oriented programming and its effective use to explore and extract valuable information from data.
