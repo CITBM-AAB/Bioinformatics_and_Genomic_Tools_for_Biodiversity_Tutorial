@@ -1,6 +1,5 @@
 Introduction to Python
 ======
-* [Slides](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section3)
 * [Introduction to Jupyter](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section3/Jupyter_notebook.md)
 * [Instalation Anaconda](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section3/Instalar%20Anaconda.md)
 * [Python Notebook](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section3/PythonNotebook.ipynb)
