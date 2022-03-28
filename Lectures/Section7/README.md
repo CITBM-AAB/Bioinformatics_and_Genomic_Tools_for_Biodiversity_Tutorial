@@ -1,7 +1,7 @@
 Phylogenomics
 ======
 * [Slides](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section7)
-* [Jupyter Notebook](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section7)
+* [Jupyter Notebook](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section7/Phylogenomics.MD)
 * [Lecture Recording](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section7)
 
 # Instructor
