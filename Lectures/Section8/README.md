@@ -1,7 +1,7 @@
 Population Genomics
 ======
-* [Slides](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section8)
-* [Jupyter Notebook](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section8)
+* [Slides](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section8/Population.md)
+* [Jupyter Notebook](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section8/Population.md)
 * [Lecture Recording](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section8)
 
 # Instructor
