@@ -1,7 +1,7 @@
 Adaptative evolution
 ======
-* [Slides](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section9)
-* [Jupyter Notebook](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section9)
+* [Slides](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section9/Adaptive%20Evolution.md)
+* [Jupyter Notebook](https://github.com/CITBM-AAB/Bioinformatics_and_Genomic_Tools_for_Biodiversity_Tutorial/blob/main/Lectures/Section9/Adaptive%20Evolution.md)
 * [Lecture Recording](https://github.com/cursobioinfo/BioinformaticsCourse/blob/main/Lectures/Section9)
 
 # Instructor
